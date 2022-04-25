@@ -1,0 +1,246 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "links":  [
+    {
+        "label": "Jira Home",
+        "href": "https://jira.gray.net",
+        "icon": "/images/icons8-jira.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Documentation"
+    },
+    {
+        "label": "Collab Page",
+        "href": "https://collab.gray.net/login.action?os_destination=%2Findex.action&permissionViolation=true",
+        "icon": "/images/icons8-jira.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Documentation"
+    },
+    {
+        "label": "Gitlab",
+        "href": "https://gitlab.gray.net/",
+        "icon": "/images/icons8-gitlab.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Documentation"
+    },
+    {
+        "label": "Kibana Dev",
+        "href": "https://elasticsearch.dev.agpl.cloud/_plugin/kibana/app/home#/",
+        "icon": "/images/icons8-kibana.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "Kibana Production",
+        "href": "https://elasticsearch.prod.agpl.cloud/_plugin/kibana/app/home#/",
+        "icon": "/images/icons8-kibana.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "Rancher Dev",
+        "href": "https://rancher.dev.gray.net/dashboard/auth/login",
+        "icon": "/images/rancher-icon.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "Rancher Production",
+        "href": "https://rancher.prod.gray.net/dashboard/auth/login",
+        "icon": "/images/rancher-icon.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "AG Microservices",
+        "href": "https://app.dev.gray.net/services",
+        "icon": "/images/MS.jpeg",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Test Coverage",
+        "href": "https://app.dev.gray.net/test-coverage",
+        "icon": "/images/bar-chart-676.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Testing"
+    },
+    {
+        "label": "App Test Data",
+        "href": "https://app.dev.gray.net/test-data?query=",
+        "icon": "/images/sql-server.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Testing"
+    },
+    {
+        "label": "CRM Lite Dev",
+        "href": "https://app.int.gray.net/crm-lite/",
+        "icon": "/images/crm.jpeg",
+        "tags": ["dev", "CRM", "client", "party"],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "CRM Lite Production",
+        "href": "https://app.prod.gray.net/crm-lite/",
+        "icon": "/images/crm.jpeg",
+        "tags": ["production", "CRM", "client", "party"],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "App Investor",
+        "href": "https://secure.dev.gray.net/",
+        "icon": "/images/investor.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "App Advisor",
+        "href": "https://online.dev.gray.net/secure/adviser/",
+        "icon": "/images/advisor.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "App Transactions",
+        "href": "https://www.google.com",
+        "icon": "/images/transaction.jpg",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "App Umbrella",
+        "href": "https://secure.dev.gray.net/account/signin?ReturnUrl=%2fissue%2fwsfed%2f%3fwtrealm%3dhttps%253A%252F%252Fonline.dev.gray.net%252Fsecure%252Fgroup-savings%26wa%3dwsignin1.0%26wctx%3dhttps%253A%252F%252Fonline.dev.gray.net%252Fsecure%252Fgroup-savings%252F%26wct%3dTue%2520Aug%252031%25202021%252010%253A21%253A24%2520GMT%252B0200%2520(South%2520Africa%2520Standard%2520Time)&wtrealm=https%3A%2F%2Fonline.dev.gray.net%2Fsecure%2Fgroup-savings&wa=wsignin1.0&wctx=https%3A%2F%2Fonline.dev.gray.net%2Fsecure%2Fgroup-savings%2F&wct=Tue%20Aug%2031%202021%2010%3A21%3A24%20GMT%2B0200%20(South%20Africa%20Standard%20Time)",
+        "icon": "/images/umbrella.jpg",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Camunda Falcons",
+        "href": "https://support-tools.dev.gray.net/ps/retail/falcons/camunda/app/cockpit/api-party-instruction/#/login",
+        "icon": "/images/camunda.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Camunda Transactions",
+        "href": "https://support-tools.dev.gray.net/ps/retail/transactions/camunda",
+        "icon": "/images/camunda.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Siebel Dev",
+        "href": "https://intsieba1agct/oui_enu/start.swe?SWECmd=Start&SWEHo=intsieba1agct",
+        "icon": "/images/AG.jpeg",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Flex Web UI",
+        "href": "https://flex.dev02.gray.net/FCISNeoWeb/LoginServlet",
+        "icon": "/images/flex.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "RabbitMQ",
+        "href": "https://rabbitmq-admin.dev.gray.net/",
+        "icon": "/images/rabbitmq.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "Appian Dev",
+        "href": "https://ag-dev.ops.allangray.com/suite/",
+        "icon": "/images/appian-logo.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "AG Encryption Tool",
+        "href": "https://support-tools.dev.gray.net/encryption/encrypt",
+        "icon": "/images/encryption.jpg",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Apps"
+    },
+    {
+        "label": "Artifactory",
+        "href": "https://theluggage-agct.gray.net/ui/repos/tree/General/docker-local/service",
+        "icon": "/images/artifactory.png",
+        "tags": [],
+        "description": "",
+        "environment": "",
+        "category": "Debugging"
+    },
+    {
+        "label": "Intranet",
+        "href": "https://allangraycloud.sharepoint.com/sites/intranet/SitePages/Home.aspx",
+        "icon": "/images/AG.jpeg",
+        "tags": ["intranet", "sharepoint","policies"],
+        "description": "AG local intranet",
+        "environment": "",
+        "category": "Unknown"
+    }
+]
+}

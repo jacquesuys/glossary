@@ -1,0 +1,19 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/home/node/code
+      - /home/node/code/node_modules
+    links:
+      - mongo
+    environment:
+      MONGO_CONNECTION_STRING: mongodb://db:27017
+  mongo:
+    image: mongo:4
+  mongo-express:
+    image: mongo-express
+    ports:
+    - "8081:8081"

@@ -1,0 +1,162 @@
+ [
+    {
+        "label": "Jira Home",
+        "href": "https://www.google.com",
+        "icon": "/images/icons8-jira.svg"
+    },
+    {
+        "label": "Collab Page",
+        "href": "https://www.google.com",
+        "icon": "/images/icons8-jira.svg"
+    },
+    {
+        "label": "Gitlab",
+        "href": "https://www.google.com",
+        "icon": "/images/icons8-gitlab.svg"
+    },
+    {
+        "label": "Kibana Dev",
+        "href": "https://www.google.com",
+        "icon": "/images/icons8-kibana.svg"
+    },
+    {
+        "label": "Kibana Production",
+        "href": "https://www.google.com",
+        "icon": "/images/icons8-kibana.svg"
+    },
+    {
+        "label": "Rancher Dev",
+        "href": "https://www.google.com",
+        "icon": "/images/rancher-icon.svg"
+    },
+    {
+        "label": "Rancher Production",
+        "href": "https://www.google.com",
+        "icon": "/images/rancher-icon.svg"
+    },
+    {
+        "label": "AG Microservices",
+        "href": "https://www.google.com",
+        "icon": "/images/MS.jpeg"
+    },
+    {
+        "label": "Test Coverage",
+        "href": "https://www.google.com",
+        "icon": "/images/bar-chart-676.svg"
+    },
+    {
+        "label": "App Test Data",
+        "href": "https://www.google.com",
+        "icon": "/images/sql-server.png"
+    },
+    {
+        "label": "Lite Dev",
+        "href": "https://www.google.com",
+        "icon": "/images/crm.jpeg"
+    },
+    {
+        "label": "Lite Production",
+        "href": "https://www.google.com",
+        "icon": "/images/crm.jpeg"
+    },
+    {
+        "label": "App Investor",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "App Advisor",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "App Transactions",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "App Umbrella",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Camunda",
+        "href": "https://www.google.com",
+        "icon": "/images/Camunda.png"
+    },
+    {
+        "label": "Siebel Dev",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    },
+    {
+        "label": "Allan Gray",
+        "href": "https://www.google.com",
+        "icon": "/images/AG.jpeg"
+    }
+]
